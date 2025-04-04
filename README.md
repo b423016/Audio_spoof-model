@@ -1,6 +1,6 @@
 # Audio_spoof-model
 Download datast:- https://datashare.ed.ac.uk/handle/10283/3055
-A audio spoof model inspired form rawnet.
+A audio spoof model inspired from rawnet.
 # My Analysis of RawNet2 for Audio Spoofing Detection
 
 I chose RawNet2 for its straightforward approach - it works directly with raw audio waveforms instead of requiring complex feature engineering, which is both elegant and practical. This is especially effective for real-time Logical Access scenarios.
