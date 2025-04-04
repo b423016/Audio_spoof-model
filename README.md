@@ -116,3 +116,8 @@ Export the model using TensorFlow Lite or ONNX for use on edge devices.
 Preprocess audio input in real-time to standardize length before inference.
 
 Integrate into voice authentication systems as a security filter.
+
+## Libraries ##
+pip install numpy pandas librosa scikit-learn tensorflow matplotlib
+For Ease of access I have used colab open and run
+
