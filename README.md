@@ -1,4 +1,5 @@
 # Audio_spoof-model
+Download datast:- https://datashare.ed.ac.uk/handle/10283/3055
 A audio spoof model inspired form rawnet.
 # My Analysis of RawNet2 for Audio Spoofing Detection
 
